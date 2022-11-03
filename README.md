@@ -7,7 +7,7 @@ A first-gen and proud Indian Gujarati boy. I grew up in Nagpur city in Maharasht
 ### 🧾What I do:
 I'm Full Stack Developer, skilled in object oriented programming as well as DBMS and Web Developement creating websites with a robust internal architecture and delivering an interactive and intuitive interface to clients. Keeping-up with emerging technology that may serve the business' needs.
 Looking forward to learn something new and develop my overall skills.
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="320" />
   
 <!-- - 💼 any freelance work? do reach, [email](mailto:abhishekdesai@cred.club) :) -->
 <!-- - 💬 ask me about anything, i am happy to help; -->
